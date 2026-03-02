@@ -8,6 +8,9 @@ Mini-project on pathfinding in a maze modeled as a state graph, with:
 - A* with **Euclidean** heuristic,
 - **dynamic**, **static**, or **no** fire.
 
+<img width="854" height="523" alt="Capture d’écran 2026-03-02 à 15 23 36" src="https://github.com/user-attachments/assets/48fcb89e-d24d-4450-933d-17c9fdc9fae7" />
+<img width="852" height="518" alt="Capture d’écran 2026-03-02 à 15 24 10" src="https://github.com/user-attachments/assets/48c5bb86-ec2c-4c7f-8ebb-eecef9c10160" />
+
 ---
 
 ## Project Structure
