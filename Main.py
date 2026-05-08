@@ -11,8 +11,8 @@ from PySide6.QtWidgets import (
 from PySide6.QtGui import QColor, QBrush, QPen
 from PySide6.QtCore import QTimer, Qt
 
-from Algorithm import Algorithm, compute_fire_time
-from MapGenerator import MapGenerator
+from core.Algorithm import Algorithm, compute_fire_time
+from core.MapGenerator import MapGenerator
 
 
 class LabyrinthApp(QMainWindow):
